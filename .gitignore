@@ -8,4 +8,4 @@ coverage/
 coverage/
 settings.local.json
 CLAUDE.md
-.env
+config.bat
